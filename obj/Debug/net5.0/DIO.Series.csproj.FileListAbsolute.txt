@@ -1,0 +1,16 @@
+/home/dj/Projetos/DotNet/DIO.Series/bin/Debug/net5.0/DIO.Series
+/home/dj/Projetos/DotNet/DIO.Series/bin/Debug/net5.0/DIO.Series.deps.json
+/home/dj/Projetos/DotNet/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.json
+/home/dj/Projetos/DotNet/DIO.Series/bin/Debug/net5.0/DIO.Series.runtimeconfig.dev.json
+/home/dj/Projetos/DotNet/DIO.Series/bin/Debug/net5.0/DIO.Series.dll
+/home/dj/Projetos/DotNet/DIO.Series/bin/Debug/net5.0/ref/DIO.Series.dll
+/home/dj/Projetos/DotNet/DIO.Series/bin/Debug/net5.0/DIO.Series.pdb
+/home/dj/Projetos/DotNet/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.AssemblyReference.cache
+/home/dj/Projetos/DotNet/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/dj/Projetos/DotNet/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/home/dj/Projetos/DotNet/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/home/dj/Projetos/DotNet/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/dj/Projetos/DotNet/DIO.Series/obj/Debug/net5.0/DIO.Series.dll
+/home/dj/Projetos/DotNet/DIO.Series/obj/Debug/net5.0/ref/DIO.Series.dll
+/home/dj/Projetos/DotNet/DIO.Series/obj/Debug/net5.0/DIO.Series.pdb
+/home/dj/Projetos/DotNet/DIO.Series/obj/Debug/net5.0/DIO.Series.genruntimeconfig.cache
